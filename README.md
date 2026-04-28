@@ -1,4 +1,4 @@
-# D431-WGU-Digital-Forensics
+
 # D431 – Digital Forensics (WGU)
 
 **Student:** Sara Goodie  
