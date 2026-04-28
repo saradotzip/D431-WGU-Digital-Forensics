@@ -12,8 +12,8 @@
 
 | File | Description |
 |------|-------------|
-| `SaraG_Task1_D431.docx` | **Task 1** – Cybercrime Investigation Plan (written analysis) |
-| `Sara_G_Task2D431.docx` | **Task 2** – Hands-On Autopsy Forensic Lab (John Smith case) |
+| `D431_SaraGoodie_Task1` | **Task 1** – Cybercrime Investigation Plan (written analysis) |
+| `D431_SaraGoodie_Task2` | **Task 2** – Hands-On Autopsy Forensic Lab (John Smith case) |
 
 ---
 
